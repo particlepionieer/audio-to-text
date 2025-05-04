@@ -1,0 +1,4 @@
+# functions/requirements.txt
+firebase-functions
+google-cloud-speech
+google-cloud-storage
